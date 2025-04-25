@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Gods/Zaavaaz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Zaavaaz"
             }
           }
         ],
@@ -200,9 +200,9 @@
   },
   "active": "3d9c50210ddceba6",
   "lastOpenFiles": [
-    "Gods/Zorg.md",
-    "Gods/Zedros.md",
     "Gods/Zalgoloth.md",
+    "Gods/Zedros.md",
+    "Gods/Zorg.md",
     "index.md",
     "Gods/Zaavaaz.md",
     "Gods",

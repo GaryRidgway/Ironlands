@@ -1,3 +1,4 @@
-Hello world.
-
-#god
+---
+tags:
+  - god
+---
